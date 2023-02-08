@@ -18,8 +18,12 @@ The deep learning model framework based on Bi-GRU and attention mechanism to pre
 ## Webserver
 http://www.biolscience.cn/Enhancer-LSTMAtt/
 
-## Document Introduction
+## Coda
 1. train.ipynb is the model training for S/T phosphorylation sites and Y phosphorylation sites;
 2. test.ipynb is the prediction of S/T phosphorylation sites and Y phosphorylation sites.
-3. The file "data" contains all the data used in this study. st-train.fa and st-test.fa are the training set and test set of S/T phosphorylation sites, respectively. y-train.fa and y-test.fa are the training set and test set of Y phosphorylation sites.
-4. The file "model" contains the final model weights for the independent tests. t_model.h5 is the final model weight for S/T phosphorylation sites; y_model.h5 is the final model weight for Y phosphorylation sites.
+
+## Data
+1. The file "data" contains all the data used in this study. st-train.fa and st-test.fa are the training set and test set of S/T phosphorylation sites, respectively. y-train.fa and y-test.fa are the training set and test set of Y phosphorylation sites.
+
+## Model
+1. The file "model" contains the final model weights for the independent tests. t_model.h5 is the final model weight for S/T phosphorylation sites; y_model.h5 is the final model weight for Y phosphorylation sites.
