@@ -16,7 +16,7 @@ The deep learning model framework based on Bi-GRU and attention mechanism to pre
 - Skikit-learn==1.0.2
 
 ## Webserver
-http://www.biolscience.cn/Enhancer-LSTMAtt/
+[http://cbcb.cdutcm.edu.cn/phosphory/](http://cbcb.cdutcm.edu.cn/phosphory/)
 
 ## Coda
 1. train.ipynb is the model training for S/T phosphorylation sites and Y phosphorylation sites;
